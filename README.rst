@@ -79,3 +79,9 @@ Verify Auth credentials by issuing the following command on termianl:
 
 2. Verify password::
   :~$echo $PASSWD_ARANGO
+
+Authors
+===============
+
+1. Prashant Patil, Innoplexus Pune
+2. Suyash Masugade, Innoplexus Pune
