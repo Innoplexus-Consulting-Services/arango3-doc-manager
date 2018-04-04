@@ -31,7 +31,7 @@ You can also install the development version of arangodb3-doc-manager manually::
 You may have to run pip with sudo, depending on where you're installing and
 what privileges you have.
 
-Running the tests::
+Running the tests
 -----------------
 
 1. Clone the arago3-doc-manager Github repository::
@@ -81,9 +81,6 @@ Verify Auth credentials by issuing the following command on termianl:
   :~$echo $PASSWD_ARANGO
 
 Test via command line
----------------------
-
-Test via command line::
 ---------------------
 
   mongo-connector -m localhost:27017 -t localhost:8529 -d arango3_doc_manager
