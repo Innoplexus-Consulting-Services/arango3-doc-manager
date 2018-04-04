@@ -41,7 +41,7 @@ setup(
     packages=[
         "mongo_connector",
         "mongo_connector.doc_managers"],
-    license="",
+    license="MIT License",
     classifiers=[
         "Development Status :: 1 - Beta",
         "Intended Audience :: Developers",

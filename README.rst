@@ -80,6 +80,14 @@ Verify Auth credentials by issuing the following command on termianl:
 2. Verify password::
   :~$echo $PASSWD_ARANGO
 
+Test via command line
+---------------------
+
+Test via command line::
+---------------------
+
+  mongo-connector -m localhost:27017 -t localhost:8529 -d arango3_doc_manager
+
 Authors
 ===============
 
