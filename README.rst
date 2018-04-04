@@ -6,8 +6,8 @@ arango3-doc-manager
 Getting Started
 ===============
 
-This package is a document manager for mongo-connector that targets
-ArangoDB versions 3.x and keeps ArangoDB in sync with MongoDB.
+This package is a document manager for [mongo-connector](https://github.com/mongodb-labs/mongo-connector)
+that targets ArangoDB versions 3.x and keeps ArangoDB in sync with MongoDB.
 
 Installation
 ===============
@@ -25,6 +25,7 @@ Development
 You can also install the development version of arangodb3-doc-manager manually::
 
   git clone https://github.com/Innoplexus-Consulting-Services/arango3-doc-manager.git
+
   python setup.py install
 
 You may have to run pip with sudo, depending on where you're installing and
