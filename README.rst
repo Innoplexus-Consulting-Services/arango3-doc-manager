@@ -83,5 +83,5 @@ Verify Auth credentials by issuing the following command on termianl:
 Authors
 ===============
 
-1. Prashant Patil, Innoplexus Pune
-2. Suyash Masugade, Innoplexus Pune
+1. Prashant Patil, Innoplexus
+2. Suyash Masugade, Innoplexus
