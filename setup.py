@@ -43,7 +43,7 @@ setup(
         "mongo_connector.doc_managers"],
     license="MIT License",
     classifiers=[
-        "Development Status :: 1 - Beta",
+        "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 2.6",
         "Programming Language :: Python :: 2.7",
