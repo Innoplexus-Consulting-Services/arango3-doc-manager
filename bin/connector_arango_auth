@@ -8,7 +8,7 @@
 
 #Date: 17/03/2018
 
-#Company: Innoplexus, Pune
+#Company: Innoplexus
 
 validiate(){
 	if [ -z $USER_ARANGO -a -z $PASSWD_ARANGO ]
