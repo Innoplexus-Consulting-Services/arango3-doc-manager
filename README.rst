@@ -8,7 +8,8 @@ Getting Started
 
 This package is a document manager for `mongo-connector
 <https://github.com/mongodb-labs/mongo-connector>`__ that targets
-`ArangoDB <https://www.arangodb.com/>`__ versions 3.x and keeps ArangoDB in sync with MongoDB.
+`ArangoDB <https://www.arangodb.com/>`__ versions 3.x and keeps ArangoDB in
+sync with `MongoDB <https://www.mongodb.com/>`__.
 
 Installation
 ===============
@@ -89,5 +90,5 @@ Test via command line
 Authors
 ===============
 
-1. Prashant Patil, Innoplexus
-2. Suyash Masugade, Innoplexus
+1. Prashant Patil, `Innoplexus <https://www.innoplexus.com/>`__.
+2. Suyash Masugade, `Innoplexus <https://www.innoplexus.com/>`__.
