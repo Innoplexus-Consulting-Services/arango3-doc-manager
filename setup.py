@@ -31,6 +31,7 @@ setup(
     maintainer='Innoplexus',
     description='Arango3 plugin for mongo-connector',
     long_description=long_description,
+    long_description_content_type='text/markdown',
     platforms=['any'],
     author='Prashant Patil',
     author_email='prashant.patil@innoplexus.com',
