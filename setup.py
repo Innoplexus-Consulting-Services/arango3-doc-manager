@@ -27,11 +27,10 @@ except IOError:
 
 setup(
     name='arango3-doc-manager',
-    version='0.1.0',
+    version='0.1.2',
     maintainer='Innoplexus',
     description='Arango3 plugin for mongo-connector',
     long_description=long_description,
-    long_description_content_type='text/markdown',
     platforms=['any'],
     author='Prashant Patil',
     author_email='prashant.patil@innoplexus.com',

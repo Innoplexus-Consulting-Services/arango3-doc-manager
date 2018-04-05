@@ -32,7 +32,7 @@ LOG = logging.getLogger(__name__)
 __version__ = constants.__version__
 
 
-__version__ = '0.1.0'
+__version__ = '0.1.2'
 """ArangoDB 3.X DocManager version."""
 
 
